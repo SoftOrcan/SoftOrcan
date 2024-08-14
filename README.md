@@ -9,5 +9,5 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=190 
-    align="center" src="https://github-readme-stats-nu-eight-61.vercel.app/api/top-langs/?username=SoftOrcan&theme=sakura&card_width=330&layout=compact&custom_title=Languages%2E%2E%2E" />
+    align="center" src="https://github-readme-stats-nu-eight-61.vercel.app/api/top-langs/?username=SoftOrcan&theme=sakura&card_width=340&layout=compact&custom_title=Languages%2E%2E%2E" />
 </a>
