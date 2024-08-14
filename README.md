@@ -3,6 +3,7 @@
 ..        ‧₊˚✩.  ˚. ♡ ☁︎   ૮ – ﻌ–ა⌒)ᦱ    ₊ ⊹      Hello (from) Orcan's World          𓍼ֶָ֢⊹ ࣪ ˖°❀⋆.ೃ࿔*:･           ૮ – ﻌ–ა     ..
 Overview: 
   - Computer Science and Mathematics student at Northeastern University.
+  - Graduation: May 2027 (Expected)
 </pre> 
 
 <a href="orcan.dev">
