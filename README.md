@@ -15,5 +15,5 @@
 <pre>
   About Me:
   - World's Most Joyous Puppy
-  - Contact me at [hua.n@northeastern.edu](mailto:hua.n@northeastern.edu)
+  - Contact me at hua.n@northeastern.edu
 </pre>
