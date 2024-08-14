@@ -13,7 +13,6 @@
 </a>
 <p></p>
 <pre>
-  Overview: 
-  - Computer Science and Mathematics student at Northeastern University.
-  - Graduation: May 2027 (Expected)
+  About Me:
+  World's Most Joyous
 </pre>
