@@ -1,16 +1,11 @@
-## Hi there 👋
+<pre>
+⋆｡ ✧°  ☁︎  ✧˖°. ⋆｡°              ᶻ 𝗓 𐰁
+..       ‧₊˚✩.  ˚. ♡ ☁︎    ૮ – ﻌ–ა⌒)ᦱ         
+</pre>
 
-<!--
-**SoftOrcan/SoftOrcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-nu-eight-61.vercel.app/api?username=SoftOrcan&show_icons=true&theme=sakura&rank_icon=github&custom_title=Activity%21%20%3E%3C" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-nu-eight-61.vercel.app/api/top-langs/?username=SoftOrcan&hide_progress=true&theme=sakura" />
+</a>
