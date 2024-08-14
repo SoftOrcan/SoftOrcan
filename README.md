@@ -1,9 +1,6 @@
 <pre>
 ⋆｡ ✧°  ☁︎  ✧˖°. ⋆｡°              ᶻ 𝗓 𐰁        ⋆⁺₊⋆ ☾ ⋆⁺₊⋆           ✩₊˚.⋆☾⋆⁺₊✧                   𓇼 ⋆｡˚ 𓆝⋆｡°•☁︎
 ..        ‧₊˚✩.  ˚. ♡ ☁︎   ૮ – ﻌ–ა⌒)ᦱ    ₊ ⊹      Hello (from) Orcan's World          𓍼ֶָ֢⊹ ࣪ ˖°❀⋆.ೃ࿔*:･           ૮ – ﻌ–ა     ..
-Overview: 
-  - Computer Science and Mathematics student at Northeastern University.
-  - Graduation: May 2027 (Expected)
 </pre> 
 
 <a href="orcan.dev">
@@ -14,3 +11,9 @@ Overview:
   <img height=190
     align="center" src="https://github-readme-stats-nu-eight-61.vercel.app/api?username=SoftOrcan&show_icons=true&theme=sakura&rank_icon=github&custom_title=Activity%21%20%3E%3C&layout=compact&card_width=355" />
 </a>
+
+<pre>
+  Overview: 
+  - Computer Science and Mathematics student at Northeastern University.
+  - Graduation: May 2027 (Expected)
+</pre>
