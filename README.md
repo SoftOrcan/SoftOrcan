@@ -14,5 +14,5 @@
 <p></p>
 <pre>
   About Me:
-  World's Most Joyous
+  - World's Most Joyous Puppy
 </pre>
