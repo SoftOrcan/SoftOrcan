@@ -1,6 +1,6 @@
 <pre>
-⋆｡ ✧°  ☁︎  ✧˖°. ⋆｡°              ᶻ 𝗓 𐰁         ⋆⁺₊⋆ ☾ ⋆⁺₊⋆ ☁︎        ✩₊˚.⋆☾⋆⁺₊✧
-..        ‧₊˚✩.  ˚. ♡ ☁︎   ૮ – ﻌ–ა⌒)ᦱ    ₊ ⊹         Hello Orcan's World          𓍼ֶָ֢⊹ ࣪ ˖
+⋆｡ ✧°  ☁︎  ✧˖°. ⋆｡°              ᶻ 𝗓 𐰁         ⋆⁺₊⋆ ☾ ⋆⁺₊⋆ ☁︎        ✩₊˚.⋆☾⋆⁺₊✧                   𓇼 ⋆｡˚ 𓆝⋆｡°•☁︎
+..        ‧₊˚✩.  ˚. ♡ ☁︎   ૮ – ﻌ–ა⌒)ᦱ    ₊ ⊹         Hello Orcan's World          𓍼ֶָ֢⊹ ࣪ ˖°❀⋆.ೃ࿔*:･                 
 </pre>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
