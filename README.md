@@ -14,6 +14,5 @@
 <p></p>
 <pre>
   About Me:
-  - The Most Joyous Puppy
   - Contact: hua.n@northeastern.edu
 </pre>
