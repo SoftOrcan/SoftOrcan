@@ -13,6 +13,5 @@
 </a>
 <p></p>
 <pre>
-  About Me:
-  - Contact: hua.n@northeastern.edu
+  Contact: hua.n@northeastern.edu
 </pre>
